@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pwa-ang"
+    }
+  },
+  "defaultProject": "pwa-ang",
+  "cli": {
+    "analytics": "5b2fc434-50d8-4c14-9f93-d21b77c41363"
+  }
 }
